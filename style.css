@@ -1,3 +1,8 @@
+:root {
+    font-family: "Open Sans", serif;
+    line-height: auto;
+}
+
 body {
     background-color: #FFFFFF;
 }
@@ -10,3 +15,64 @@ body {
     margin: 88px auto;
 }
 
+#headline-h1 {
+    font-size: 16px;
+    color: #E1624F;
+}
+
+#headline-h2 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+
+#contentlist-h1 {
+    font-size: 16px;
+    color: #E1624F;
+}
+
+#contentlist-h2 {
+    font-size: 32px;
+}
+
+#templo-haedong {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.destaque-1 {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+#templo-beomeo-sa {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.destaque-2 {
+    color: #0C51A7;
+    font-weight: bold;
+}
+
+#parque-youngdusan {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.destaque-3 {
+    color: #591B98;
+    font-weight: bold;
+}
+
+.destaque-4 {
+    color: #E5245E;
+    font-weight: bold;
+}
+
+.destaque-5 {
+    color: #E95E10;
+    font-weight: bold;
+}
