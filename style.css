@@ -20,6 +20,10 @@ body {
     color: #E1624F;
 }
 
+#description p {
+    text-align: center;
+}
+
 #headline-h2 {
     font-size: 36px;
 }
