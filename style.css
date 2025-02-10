@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 :root {
     font-family: "Open Sans", serif;
     line-height: auto;
@@ -15,9 +20,20 @@ body {
     margin: 88px auto;
 }
 
+
+
+#header-headline {
+    margin-bottom: 40px;
+}
+
+#cidade-busan {
+    margin-top: 40px;
+}
+
 #headline-h1 {
     font-size: 16px;
     color: #E1624F;
+    margin-bottom: 8px;
 }
 
 #description p {
@@ -26,19 +42,32 @@ body {
 
 #headline-h2 {
     font-size: 36px;
+
+}
+
+.paragraph-1 {
+    margin-top: 24px;
+    margin-bottom: 80px;
 }
 
 p {
     font-size: 16px;
+    
 }
+
 
 #contentlist-h1 {
     font-size: 16px;
     color: #E1624F;
+    margin-bottom: 2px;
 }
 
 #contentlist-h2 {
     font-size: 32px;
+}
+
+.paragraph-2 {
+    margin-bottom: 64px;
 }
 
 #templo-haedong {
@@ -79,4 +108,25 @@ p {
 .destaque-5 {
     color: #E95E10;
     font-weight: bold;
+}
+
+ul {
+    padding-left: 30px;
+    margin-bottom: 48px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    padding-bottom: 48px;
+    font-size: 16px;
+}
+
+footer img {
+    position: relative;
+    bottom: -24px;
 }
