@@ -47,8 +47,20 @@ body {
 
 .paragraph-1 {
     margin-top: 24px;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 }
+
+hr {
+    border: 0.1px solid #c8c8c8;
+    margin-bottom: 40px;
+}
+
+#contentlist hr {
+    border: 0.1px solid #c8c8c8;
+    margin-bottom: 64px;
+    
+}
+
 
 p {
     font-size: 16px;
